@@ -1,4 +1,4 @@
-# Hi 👋, I'm Limpanhaboth
+# Hi, I'm Limpanhaboth
 
 Software Engineering Student  
 Aspiring Software Developer  
