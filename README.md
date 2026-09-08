@@ -21,6 +21,13 @@ Canberra, Australia
 - JavaScript
 - Git & GitHub
 
+## Tools
+
+- IDLE
+- PyCharm
+- Visual Studio Code
+- Postman
+
 ## Goals
 
 - Build more real-world projects
