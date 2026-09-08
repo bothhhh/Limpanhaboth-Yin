@@ -23,10 +23,13 @@ Canberra, Australia
 
 ## Tools
 
-- IDLE
-- PyCharm
 - Visual Studio Code
+- PyCharm
+- IDLE
 - Postman
+- Google Colab
+- Jupyter Notebook
+- Oracle APEX
 
 ## Goals
 
