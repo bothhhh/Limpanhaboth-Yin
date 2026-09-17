@@ -7,29 +7,33 @@ Canberra, Australia
 ## About Me
 
 - Currently studying Software Engineering
-- Interested in software development and technology
 - Learning Python
 - Learning web development
+- Building projects with Python and web technologies
 - Building projects to improve my programming skills
+- Contributing to open-source projects
+- Interested in software development and real-world problem solving
+
 
 ## Skills
 
 - Python
+- Javascript
+- TypeScript
+- SQL
 - HTML
 - CSS
-- SQL
-- JavaScript
-- Git & GitHub
 
 ## Tools
 
 - Visual Studio Code
 - PyCharm
-- IDLE
 - Postman
 - Google Colab
 - Jupyter Notebook
 - Oracle APEX
+- IDLE
+
 
 ## Goals
 
